@@ -7,3 +7,4 @@ fjoirejrlkpø'ækgdæ
 =======
 vi koder lykkelig videre på bla
 >>>>>>> Stashed changes
+hgiølshlrdhgsl

@@ -1,4 +1,4 @@
-this is an awsome projekt. 
+this is an AWSOME projekt. 
 It is the best best projet! 
 Vi tester git diff
 tester git diff nok en gang
